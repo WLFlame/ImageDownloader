@@ -1,0 +1,45 @@
+st login: Thu Jul  7 10:44:41 on ttys000
+qqzq2015deMacBook-Pro:~ ywl$ cd /Users/ywl/Desktop/YYPlayer 
+qqzq2015deMacBook-Pro:YYPlayer ywl$ ls
+1.wmv			README.md		en.lproj
+Podfile			YYPlayer		test.mov
+Podfile.lock		YYPlayer.xcodeproj	zh-Hans.lproj
+Pods			YYPlayer.xcworkspace
+qqzq2015deMacBook-Pro:YYPlayer ywl$ ls -a
+.			Podfile			YYPlayer.xcworkspace
+..			Podfile.lock		en.lproj
+.DS_Store		Pods			test.mov
+.git			README.md		zh-Hans.lproj
+.gitignore		YYPlayer
+1.wmv			YYPlayer.xcodeproj
+qqzq2015deMacBook-Pro:YYPlayer ywl$ vi .gitignore 
+
+
+
+
+
+
+
+
+
+#
+# Pods/
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/Checkouts
+
+Carthage/Build
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Gitignore.md
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
