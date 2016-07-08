@@ -899,18 +899,420 @@
 		<string>http://itunes.apple.com/us/app/id965827767</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple69/v4/a6/03/bc/a603bc8a-b5c0-bb8e-b9f2-65bd0701c548/source/512x512bb.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>546</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>6458</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>6453</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>BuzzFeed Video</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id1060266198</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is4.mzstatic.com/image/thumb/Purple49/v4/37/72/26/37722652-6d85-f7aa-29d9-422d760ab583/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>544</string>
+		<key>startIndex</key>
+		<string>6441</string>
+		<key>endIndex</key>
+		<string>6417</string>
+		<key>app</key>
+		<string>sweetgreen</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id594329490</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple69/v4/8e/0a/3e/8e0a3ee2-ce66-4eec-6e3c-bcc095047663/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>543</string>
+		<key>startIndex</key>
+		<string>6416</string>
+		<key>endIndex</key>
+		<string>6408</string>
+		<key>app</key>
+		<string>Quartz • News in a whole new way</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1076683233</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple49/v4/1a/1d/bd/1a1dbd29-0dc6-5046-68c7-737d4fd68132/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>542</string>
+		<key>startIndex</key>
+		<string>6407</string>
+		<key>endIndex</key>
+		<string>6397</string>
+		<key>app</key>
+		<string>Rolo Calendar - a different perspective on life</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1042011386</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is3.mzstatic.com/image/thumb/Purple69/v4/a3/80/73/a380736c-009c-4e71-84d3-da815e502879/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>541</string>
+		<key>startIndex</key>
+		<string>6396</string>
+		<key>endIndex</key>
+		<string>6378</string>
+		<key>app</key>
+		<string>Refinery29 This AM: Top breaking news and celebrity stories for your daily skim</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id988472315</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple49/v4/4f/e4/1c/4fe41cc3-b727-424b-a587-5ca973ecce55/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>539</string>
+		<key>startIndex</key>
+		<string>6374</string>
+		<key>endIndex</key>
+		<string>6355</string>
+		<key>app</key>
+		<string>Tribe - Video messaging - Faster than texting, easier than live video and phone calls.</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1053998412</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple49/v4/de/5f/73/de5f735b-78e1-70d1-3067-18d96fc8435f/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>537</string>
+		<key>startIndex</key>
+		<string>6333</string>
+		<key>endIndex</key>
+		<string>6317</string>
+		<key>app</key>
+		<string>Poncho: Wake Up Weather</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id931625520</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is3.mzstatic.com/image/thumb/Purple6/v4/04/a4/21/04a421ab-0a7f-85b6-7b00-064dac2e6bef/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>535</string>
+		<key>startIndex</key>
+		<string>6270</string>
+		<key>endIndex</key>
+		<string>6265</string>
+		<key>app</key>
+		<string>Music Memos</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1036437162</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple69/v4/87/06/08/870608ec-9147-3943-6558-8d539b362c34/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>530</string>
+		<key>startIndex</key>
+		<string>6205</string>
+		<key>endIndex</key>
+		<string>6179</string>
+		<key>app</key>
+		<string>Recipes and shopping list by Feast Kitchen</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id979525007</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is4.mzstatic.com/image/pf/us/r30/Purple7/v4/6b/d6/1c/6bd61c19-ff6a-d367-2974-5b6e58f1694b/mzl.zsmhnqvh.png</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>427</string>
+		<key>startIndex</key>
+		<string>6178</string>
+		<key>endIndex</key>
+		<string>6167</string>
+		<key>app</key>
+		<string>HBO NOW</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id971265422</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is1.mzstatic.com/image/thumb/Purple69/v4/de/fb/a9/defba940-d3ed-b5f5-704f-a183752c5347/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>529</string>
+		<key>startIndex</key>
+		<string>6166</string>
+		<key>endIndex</key>
+		<string>6151</string>
+		<key>app</key>
+		<string>Rover: Discover Stories You Love</string>
+		<key>url</key>
+		<string>http://itunes.apple.com/us/app/id902092194</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple49/v4/42/f1/06/42f10624-ad79-c628-d1fa-abafbdff8b23/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>528</string>
+		<key>startIndex</key>
+		<string>5966</string>
+		<key>endIndex</key>
+		<string>5942</string>
+		<key>app</key>
+		<string>Jet - The Smartest Way to Shop &amp; Save Online, Find the Lowest Prices, Discounts &amp; Deals</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id950022424</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is1.mzstatic.com/image/thumb/Purple7/v4/80/f5/ca/80f5ca55-35ee-23d7-11d3-b2ce8f393ac9/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>526</string>
+		<key>startIndex</key>
+		<string>5926</string>
+		<key>endIndex</key>
+		<string>5909</string>
+		<key>app</key>
+		<string>Rent the Runway</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id672853806</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is3.mzstatic.com/image/thumb/Purple7/v4/46/71/b9/4671b942-be28-bac0-5545-cdebada035c1/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>525</string>
+		<key>startIndex</key>
+		<string>5892</string>
+		<key>endIndex</key>
+		<string>5883</string>
+		<key>app</key>
+		<string>Yahoo Video Guide - From searching to streaming in seconds!</string>
+		<key>url</key>
+		<string>http://itunes.apple.com/us/app/id1062329611</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is4.mzstatic.com/image/thumb/Purple69/v4/41/05/f3/4105f325-bda6-8da6-e445-380d638abf0d/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>523</string>
+		<key>startIndex</key>
+		<string>5867</string>
+		<key>endIndex</key>
+		<string>5845</string>
+		<key>app</key>
+		<string>BloomThat - The best way to send flowers</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id806330315</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/pf/us/r30/Purple5/v4/f2/27/54/f2275435-865e-b0fd-025f-22b4a0c585dd/mzl.xcujajhv.png</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>216</string>
+		<key>startIndex</key>
+		<string>5844</string>
+		<key>endIndex</key>
+		<string>5825</string>
+		<key>app</key>
+		<string>Gilt - Shop Designer Sales</string>
+		<key>url</key>
+		<string>http://itunes.apple.com/us/app/id331804452</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is3.mzstatic.com/image/thumb/Purple5/v4/89/b1/05/89b1056f-ec97-f714-cbe1-4b1f229a4ccd/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>521</string>
+		<key>startIndex</key>
+		<string>5814</string>
+		<key>endIndex</key>
+		<string>5798</string>
+		<key>app</key>
+		<string>Banquet - Shop Top Wine Stores by Delectable</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1058119446</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple2/v4/49/c2/b2/49c2b21f-a4d6-accb-f7ae-c2468a0d48d7/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>520</string>
+		<key>startIndex</key>
+		<string>5797</string>
+		<key>endIndex</key>
+		<string>5782</string>
+		<key>app</key>
+		<string>Eats | Get only the best place to eat near you</string>
+		<key>url</key>
+		<string>http://itunes.apple.com/us/app/id1046751931</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple5/v4/2f/70/3a/2f703a24-28e1-e146-e1c8-9c720694a76c/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>518</string>
+		<key>startIndex</key>
+		<string>5757</string>
+		<key>endIndex</key>
+		<string>5750</string>
+		<key>app</key>
+		<string>Roger - Talk with your favorite people, walkie-talkie style</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id943662312</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple69/v4/9d/ba/7f/9dba7f2b-e93a-2914-1035-2ade49187584/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>517</string>
+		<key>startIndex</key>
+		<string>5749</string>
+		<key>endIndex</key>
+		<string>5728</string>
+		<key>app</key>
+		<string>Vevo - Watch Music Videos</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id385815082</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is3.mzstatic.com/image/thumb/Purple69/v4/4b/30/6b/4b306bf2-fa63-5f6f-2a71-f0ecb0be6718/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>516</string>
+		<key>startIndex</key>
+		<string>5727</string>
+		<key>endIndex</key>
+		<string>5722</string>
+		<key>app</key>
+		<string>Forecast - Yet Another Weather App</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1050430292</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is1.mzstatic.com/image/thumb/Purple69/v4/96/8f/81/968f81e6-d3ac-e68d-47f6-61fd72d26941/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>514</string>
+		<key>startIndex</key>
+		<string>5654</string>
+		<key>endIndex</key>
+		<string>5631</string>
+		<key>app</key>
+		<string>Zomato - Food &amp; Restaurant Finder</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id434613896</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple69/v4/8a/dd/09/8add090b-dbed-793b-8074-cceef4457506/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>511</string>
+		<key>startIndex</key>
+		<string>5571</string>
+		<key>endIndex</key>
+		<string>5558</string>
+		<key>app</key>
+		<string>Unmute</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1001229713</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is1.mzstatic.com/image/thumb/Purple69/v4/2d/e8/40/2de840a9-8aad-4cc3-8d6d-6c662797bf1a/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>510</string>
+		<key>startIndex</key>
+		<string>5557</string>
+		<key>endIndex</key>
+		<string>5544</string>
+		<key>app</key>
+		<string>Honest Beauty</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id1049076250</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple3/v4/96/24/b3/9624b310-2a51-337d-c433-679ee41f63ff/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>509</string>
+		<key>startIndex</key>
+		<string>5541</string>
+		<key>endIndex</key>
+		<string>5529</string>
+		<key>app</key>
+		<string>ALDO - Footwear, Handbags and Accessories</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/id960427837</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://is1.mzstatic.com/image/thumb/Purple69/v4/5d/2e/dc/5d2edc80-5545-92d6-2493-75d8c5e02163/source/512x512bb.jpg</string>
+		<key>type</key>
+		<string>about</string>
+		<key>id</key>
+		<string>508</string>
+		<key>startIndex</key>
+		<string>5528</string>
+		<key>endIndex</key>
+		<string>5522</string>
+		<key>app</key>
+		<string>BuzzFeed</string>
+		<key>url</key>
+		<string>http://itunes.apple.com/us/app/id352969997</string>
 	</dict>
 	<dict>
 		<key>type</key>
@@ -927,424 +1329,166 @@
 		<string>https://itunes.apple.com/us/app/id456034437</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is1.mzstatic.com/image/thumb/Purple6/v4/61/7c/29/617c2946-9635-6f15-dbbc-48674d9a14b0/source/512x512bb.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>507</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5521</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5516</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Great Big Story</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id1042442042</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple69/v4/8e/dc/f7/8edcf7e8-e797-6c00-f67e-dfa6a75164ce/source/512x512bb.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>505</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5500</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5483</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Le Tote
+Le Tote
+</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id998774685</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple6/v4/c6/fa/67/c6fa67ee-a85d-c521-bf35-ad94c1026fb1/mzl.ttvobise.png/0x0ss-85.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>503</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5455</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5447</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Wildcard - Know the Day in News and Entertainment</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id930047790</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/9b/18/83/9b18833d-6dc8-0373-c59c-39a5e126507e/mzl.vvfoccfb.png</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>127</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5446</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5427</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Etsy</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id477128284</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple3/v4/3b/ea/2c/3bea2c49-dae1-c625-f9f5-68d7ea64877b/mzl.sqvrspgi.png/0x0ss-85.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>500</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5384</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5371</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Wander Co – Location-based Photo Journals</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id944064086</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is5.mzstatic.com/image/thumb/Purple69/v4/8f/45/27/8f45277a-e6f4-3dd0-2181-aaf3cd387224/mzl.klsxkxir.png/0x0ss-85.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>495</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5341</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5331</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Corner — Book flights. Plan vacations &amp; quick getaways</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id899109587</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple3/v4/cf/be/c0/cfbec0ac-1521-080e-1024-2dfbd9a0f06d/mzl.ktfomxaq.png/0x0ss-85.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>497</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5330</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5325</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Postmates</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id512393983</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is4.mzstatic.com/image/thumb/Purple6/v4/79/5c/1e/795c1ea2-d9f5-bfea-a853-69343cba53e3/mzl.pshqgkcq.png/0x0ss-85.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>496</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5324</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5316</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Curatum - A decisive guide to curated luxury</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id982611603</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is2.mzstatic.com/image/thumb/Purple3/v4/3b/a4/b4/3ba4b46e-bcab-a147-dcb5-8ffdd4205c72/mzl.qbxuautq.png/0x0ss-85.jpg</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>494</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5286</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5272</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Paper - Notes, Photo Annotation, and Sketches by FiftyThree</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id506003812</string>
 	</dict>
 	<dict>
+		<key>icon</key>
+		<string>http://is4.mzstatic.com/image/pf/us/r30/Purple7/v4/8d/84/9e/8d849e4e-5e1d-4763-a366-3157ebf8acf6/mzl.aesijjfr.png</string>
 		<key>type</key>
 		<string>about</string>
 		<key>id</key>
-		<string>97</string>
+		<string>459</string>
 		<key>startIndex</key>
-		<string>6958</string>
+		<string>5241</string>
 		<key>endIndex</key>
-		<string>6935</string>
+		<string>5229</string>
 		<key>app</key>
-		<string>Quora</string>
+		<string>Slack - Team Communication</string>
 		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
-	</dict>
-	<dict>
-		<key>type</key>
-		<string>about</string>
-		<key>id</key>
-		<string>97</string>
-		<key>startIndex</key>
-		<string>6958</string>
-		<key>endIndex</key>
-		<string>6935</string>
-		<key>app</key>
-		<string>Quora</string>
-		<key>url</key>
-		<string>https://itunes.apple.com/us/app/id456034437</string>
+		<string>https://itunes.apple.com/us/app/id618783545</string>
 	</dict>
 </array>
 </plist>
